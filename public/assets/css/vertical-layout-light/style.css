@@ -21744,9 +21744,8 @@ dl li {
 }
 
 .table td img {
-  width: 36px;
-  height: 36px;
-  border-radius: 100%;
+  width: 60px;
+  height: 60px;
 }
 
 .table td .badge {
@@ -22959,7 +22958,7 @@ body.avgrund-active {
 }
 
 .auth .brand-logo img {
-  width: 150px;
+  width: 80px;
 }
 
 .auth form .form-group {
